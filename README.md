@@ -1,2 +1,2 @@
 # wolna_patologia
-Fajna appka 
+Fajna appka
