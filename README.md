@@ -1,6 +1,6 @@
 # wolna_patologia
 
-Aplikacja stworzona jako owoc integracji chłopaków z Wolności.
+Aplikacja stworzona jako owoc bądź zalążek integracji chłopaków z Wolności.
 
 
 ## How to run:
