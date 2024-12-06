@@ -1,11 +1,11 @@
 # wolna_patologia
 
-Aplikacja stworzona jako owoc integracji chłopaków z Wolności. 
+Aplikacja stworzona jako owoc integracji chłopaków z Wolności.
 
 
 ## How to run:
 
-Clone repository using `git clone` command and run: 
+Clone repository using `git clone` command and run:
 ```
 python -m venv venv
 source venv/bin/activate
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python pato_appka/app.py
 ```
 
-or build and run docker file using: 
+or build and run docker file using:
 
 ```
 docker build -t flask-app .
