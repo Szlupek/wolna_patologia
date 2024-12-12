@@ -1,7 +1,7 @@
 """Main file of our basic app."""
 
-from flask import Flask, render_template, jsonify
 import random
+from flask import Flask, render_template, jsonify
 
 app = Flask(__name__)
 
