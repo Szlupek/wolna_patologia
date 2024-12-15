@@ -65,9 +65,11 @@
             <div class="description">{{ image_name }}</div>
         {% else %}
             <p>{{ image_name }}</p>
+            
         {% endif %}
         <form action="/" method="get">
             <button type="submit" class="button">Get Another Image</button>
+            <p> Your local IP is {{ ip }}</p>
         </form>
     </div>
 </body>
